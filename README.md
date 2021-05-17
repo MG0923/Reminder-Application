@@ -1,5 +1,3 @@
 # Reminder-Application
 
-
-Mohit 2 branch
-bdvsfgsfsdjff
+Simple swings application to provide a notification after set interval of time.
